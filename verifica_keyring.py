@@ -3,7 +3,7 @@ import keyring.util.platform_;
 import os
 
 #VERIFICA SENHA E GRUPO ESPECIFICO
-cred = kr.get_credential("servico","svc_telecom")
+cred = kr.get_credential("servico","svc_exemplo")
   
 print(cred) 
   
